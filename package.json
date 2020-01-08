@@ -1,0 +1,23 @@
+{
+  "name": "post-towns",
+  "version": "1.0.0",
+  "description": "CSV export of all post towns in the UK",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {
+    "fs": "0.0.1-security",
+    "puppeteer": "^2.0.0",
+    "puppeteer-core": "^2.0.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "post-town",
+    "united-kingdom",
+    "address",
+    "data"
+  ],
+  "author": "Ashraf Nazar",
+  "license": "ISC"
+}
